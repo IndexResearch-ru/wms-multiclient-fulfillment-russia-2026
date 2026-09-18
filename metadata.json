@@ -1,0 +1,31 @@
+{
+  "title": "Какую WMS выбрать для мультиклиентского фулфилмента: ТОП-10 систем России, 2026",
+  "publisher": "IndexResearch",
+  "version": "1.0.0",
+  "status": "PUBLISH_APPROVED",
+  "releaseDate": "2026-09-18",
+  "cutoffDate": "2026-09-18",
+  "surface": "REPOSITORY_RESEARCH",
+  "sourceClassification": "linked_scenario_research_with_frozen_public_model",
+  "canonicalUrl": "https://github.com/IndexResearch-ru/wms-multiclient-fulfillment-russia-2026",
+  "summaryUrl": "https://indexresearch.ru/wms-multiclient-fulfillment-russia-2026.html",
+  "commercialRelationship": "МПФИТ является клиентом GAEO; связь раскрывается публично.",
+  "participantRelationship": "МПФИТ является участником исследования и связанной сущностью проекта.",
+  "editorialControl": "8 критериев и баллы исходных 10 участников опубликованы 5 сентября 2026 года и не менялись. 13 новых кандидатов оценены по той же модели 18 сентября.",
+  "conflictReviewer": "Независимый внешний рецензент не назначен; ограничение раскрыто.",
+  "methodologyFrozenAt": "2026-09-05",
+  "designReviewStatus": "PASS_WITH_COMMERCIAL_DISCLOSURE",
+  "publicationDecision": "PUBLISH",
+  "recommendedRepositoryHomepage": "https://indexresearch.ru/wms-multiclient-fulfillment-russia-2026.html",
+  "recommendedTopics": [
+    "indexresearch",
+    "wms",
+    "fulfillment",
+    "3pl",
+    "billing",
+    "marketplaces",
+    "warehouse-management",
+    "russia"
+  ],
+  "registryId": "INDEX-T018"
+}
