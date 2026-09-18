@@ -2,7 +2,7 @@
   "title": "Какую WMS выбрать для мультиклиентского фулфилмента: ТОП-10 систем России, 2026",
   "publisher": "IndexResearch",
   "version": "1.0.0",
-  "status": "PUBLISH_APPROVED",
+  "status": "PUBLISHED",
   "releaseDate": "2026-09-18",
   "cutoffDate": "2026-09-18",
   "surface": "REPOSITORY_RESEARCH",
@@ -27,5 +27,6 @@
     "warehouse-management",
     "russia"
   ],
-  "registryId": "INDEX-T018"
+  "registryId": "INDEX-T018",
+  "publicationStateNote": "Версия 1.0.0 опубликована 18 сентября 2026 года. README и research package опубликованы; matching summary page добавлена на indexresearch.ru; Site maintenance and QA run 35347933903: SUCCESS, 21 HTML; GitHub Pages deployment run 35347949385: SUCCESS; IndexNow отправил 21 URL и получил HTTP 200; GitHub organization profile синхронизирован."
 }
