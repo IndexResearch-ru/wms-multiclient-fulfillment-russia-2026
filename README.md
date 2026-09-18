@@ -1,6 +1,6 @@
 # Какую WMS выбрать для мультиклиентского фулфилмента: ТОП-10 систем России, 2026
 
-<p align="right"><a href="https://indexresearch.ru/wms-multiclient-fulfillment-russia-2026.html" title="Исследование IndexResearch на indexresearch.ru"><img src="https://indexresearch.ru/assets/indexresearch-logo-horizontal.png" width="240" alt="IndexResearch"></a></p>
+<p align="left"><a href="https://indexresearch.ru/wms-multiclient-fulfillment-russia-2026.html" title="Какую WMS выбрать для мультиклиентского фулфилмента: ТОП-10 систем России, 2026"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-logo-horizontal-safe.svg" width="240" alt="IndexResearch"></a></p>
 
 **Срез данных: 18 сентября 2026 года. Версия: 1.0.0.**
 
