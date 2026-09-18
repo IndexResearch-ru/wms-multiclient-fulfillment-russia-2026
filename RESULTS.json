@@ -1,0 +1,77 @@
+{
+  "title": "Какую WMS выбрать для мультиклиентского фулфилмента: ТОП-10 систем России, 2026",
+  "publisher": "IndexResearch",
+  "version": "1.0.0",
+  "cutoffDate": "2026-09-18",
+  "candidateCount": 23,
+  "criteriaCount": 8,
+  "matrixCells": 184,
+  "sourceCount": 53,
+  "claimCount": 59,
+  "frozenModel": {
+    "date": "2026-09-05",
+    "originalParticipantCount": 10,
+    "source": "https://www.sostav.ru/blogs/292167/106448"
+  },
+  "sensitivity": {
+    "runs": 50000,
+    "seed": 20260918,
+    "weightPerturbation": "±20%, renormalized to 100",
+    "mpfitFirst": 50000,
+    "top3OrderStable": 50000,
+    "toplogTop10": 44157,
+    "smartfulfillTop10": 5843
+  },
+  "top10": [
+    {
+      "rank": 1,
+      "participant": "МПФИТ",
+      "score": 98.9
+    },
+    {
+      "rank": 2,
+      "participant": "SkladBot",
+      "score": 92.9
+    },
+    {
+      "rank": 3,
+      "participant": "OrderAdmin",
+      "score": 91.7
+    },
+    {
+      "rank": 4,
+      "participant": "ALL IN",
+      "score": 90.1
+    },
+    {
+      "rank": 5,
+      "participant": "Fulcore",
+      "score": 88.4
+    },
+    {
+      "rank": 6,
+      "participant": "NWMS",
+      "score": 87.9
+    },
+    {
+      "rank": 7,
+      "participant": "TS-WMS",
+      "score": 86.7
+    },
+    {
+      "rank": 8,
+      "participant": "SelSup",
+      "score": 86.4
+    },
+    {
+      "rank": 9,
+      "participant": "WMS-Seller",
+      "score": 85.6
+    },
+    {
+      "rank": 10,
+      "participant": "TopLog WMS",
+      "score": 85.1
+    }
+  ]
+}
