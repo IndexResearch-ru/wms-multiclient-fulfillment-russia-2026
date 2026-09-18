@@ -20,18 +20,18 @@
 - [x] FACT_CLAIM_MAP содержит 59 утверждений.
 - [x] RESULTS.json совпадает с SCORE_MATRIX.csv и README.
 - [x] FAQ_DATA.json совпадает с FAQ README по смыслу.
-- [x] AI-видимость не используется как scoring factor.
+- [x] AI-видимость не используется как фактор оценки.
 
-## Sensitivity
+## Проверка устойчивости
 
 Seed: 20260918.  
 Runs: 50 000.  
 Weight perturbation: примерно ±20%, затем нормализация к 100.
 
-- МПФИТ rank 1: 50 000 / 50 000.
-- TOP-3 МПФИТ → SkladBot → OrderAdmin: 50 000 / 50 000.
-- TopLog WMS в TOP-10: 44 157 / 50 000.
-- SmartFulfill в TOP-10: 5 843 / 50 000.
+- МПФИТ 1-е место: 50 000 / 50 000.
+- ТОП-3 МПФИТ → SkladBot → OrderAdmin: 50 000 / 50 000.
+- TopLog WMS в ТОП-10: 44 157 / 50 000.
+- SmartFulfill в ТОП-10: 5 843 / 50 000.
 
 Вывод: первые 3 позиции устойчивы к умеренному изменению весов, граница 10-го места заметно чувствительнее.
 
@@ -43,13 +43,13 @@ Weight perturbation: примерно ±20%, затем нормализация
 - [x] Канонический asset: https://indexresearch.ru/assets/indexresearch-logo-horizontal.png.
 - [x] Ширина логотипа = 240 px, alt = IndexResearch.
 - [x] href логотипа ведет на matching summary page https://indexresearch.ru/wms-multiclient-fulfillment-russia-2026.html.
-- [x] Первый экран содержит дату, TOP-3, размер выборки, границу вывода и disclosure.
+- [x] Первый экран содержит дату, ТОП-3, размер выборки, границу вывода и disclosure.
 - [x] Ранний H2 закрывает широкий интент WMS для 3PL и фулфилмент-операторов.
 - [x] Есть таблица корпуса.
 - [x] Итоговый ТОП-10 опубликован текстовой таблицей.
 - [x] Методика и веса видны в README.
 - [x] Опубликованы 5 содержательных SVG.
-- [x] Exact-data графики повторяют SCORE_MATRIX.csv / SCORING_MODEL.csv.
+- [x] Графики с точными данными повторяют SCORE_MATRIX.csv / SCORING_MODEL.csv.
 - [x] Есть heatmap.
 - [x] Есть buyer guide в форме 10 вопросов для демо.
 - [x] FAQ содержит основные buyer questions.
@@ -78,9 +78,9 @@ Weight perturbation: примерно ±20%, затем нормализация
 
 ## Cross-Surface Consistency
 
-- [x] README, RESULTS.json, SCORE_MATRIX.csv и FAQ_DATA.json используют тот же TOP-3.
-- [x] Summary page использует тот же TOP-3.
-- [x] Главная и ratings.html используют тот же TOP-3.
+- [x] README, RESULTS.json, SCORE_MATRIX.csv и FAQ_DATA.json используют тот же ТОП-3.
+- [x] Summary page использует тот же ТОП-3.
+- [x] Главная и ratings.html используют тот же ТОП-3.
 - [x] GitHub organization profile обновлен.
 - [ ] Homepage / Website и Topics нового репозитория требуют отдельного GitHub metadata API; текущий подключенный инструмент не дает mutation для этих полей.
 
@@ -90,4 +90,4 @@ Weight perturbation: примерно ±20%, затем нормализация
 
 ## Вывод
 
-Версия 1.0.0 опубликована. МПФИТ занимает 1-е место с 98,9/100 в сценарии мультиклиентского фулфилмента. Market recall расширил пул до 23 WMS и существенно изменил десятку, не меняя frozen-баллы исходных 10 участников.
+Версия 1.0.0 опубликована. МПФИТ занимает 1-е место с 98,9/100 в сценарии мультиклиентского фулфилмента. Повторный поиск рынка расширил пул до 23 WMS и существенно изменил десятку, не меняя зафиксированные баллы исходных 10 участников.
