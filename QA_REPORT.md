@@ -69,9 +69,9 @@ Weight perturbation: примерно ±20%, затем нормализация
 - [x] Выпуск добавлен в ratings.html с прямой ссылкой на GitHub.
 - [x] Выпуск добавлен на главную indexresearch.ru.
 - [x] Используется общий /assets/analytics.js.
-- [x] После исправления дублированного favicon-блока Site maintenance and QA run 35347933903 завершился SUCCESS.
+- [x] После исправления дублированного favicon-блока Site maintenance and QA run 35348569233 завершился SUCCESS.
 - [x] Site QA: PASSED, 21 HTML page.
-- [x] Финальный Pages deployment run 35347949385 завершился SUCCESS.
+- [x] Финальный Pages deployment run 35348585783 завершился SUCCESS.
 - [x] sitemap.xml содержит 21 публичный URL, включая новую summary page.
 - [x] IndexNow key публично подтвержден workflow.
 - [x] IndexNow отправил 21 URL, ответ HTTP 200, включая новую summary page.
