@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<rect width="1200" height="675" fill="#fff"/>
+<text x="60" y="65" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#17202a">Веса модели: 100 баллов</text>
+<text x="60" y="102" font-family="Arial,sans-serif" font-size="18" fill="#57606a">82 балла приходятся на мультиклиентность, деньги, единый сток, правила и кабинет клиента</text>
+<g font-family="Arial,sans-serif" font-size="20">
+<rect x="60" y="145" width="216" height="90" fill="#0E3455"/><text x="75" y="181" fill="#fff">C1 · 20</text><text x="75" y="207" fill="#fff">Мультиклиентность</text>
+<rect x="286" y="145" width="216" height="90" fill="#174d75"/><text x="301" y="181" fill="#fff">C2 · 20</text><text x="301" y="207" fill="#fff">Биллинг</text>
+<rect x="512" y="145" width="194" height="90" fill="#23658f"/><text x="527" y="181" fill="#fff">C3 · 18</text><text x="527" y="207" fill="#fff">Единый сток</text>
+<rect x="716" y="145" width="151" height="90" fill="#3e789b"/><text x="731" y="181" fill="#fff">C4 · 14</text><text x="731" y="207" fill="#fff">Правила</text>
+<rect x="877" y="145" width="108" height="90" fill="#5f8da7"/><text x="892" y="181" fill="#fff">C5 · 10</text><text x="892" y="207" fill="#fff">Кабинет</text>
+<rect x="60" y="275" width="172" height="90" fill="#6d99b1"/><text x="75" y="311" fill="#fff">C6 · 8</text><text x="75" y="337" fill="#fff">FBO/FBS</text>
+<rect x="242" y="275" width="108" height="90" fill="#86aabc"/><text x="257" y="311" fill="#17202a">C7 · 5</text><text x="257" y="337" fill="#17202a">Сотрудники</text>
+<rect x="360" y="275" width="108" height="90" fill="#a6bdca"/><text x="375" y="311" fill="#17202a">C8 · 5</text><text x="375" y="337" fill="#17202a">Зрелость</text>
+</g>
+<text x="60" y="430" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#17202a">Почему так</text>
+<text x="60" y="470" font-family="Arial,sans-serif" font-size="19" fill="#4b5563">Фулфилмент зарабатывает на операциях разных клиентов. Поэтому модель сильнее награждает связь</text>
+<text x="60" y="500" font-family="Arial,sans-serif" font-size="19" fill="#4b5563">«товар → клиент → правило → начисление → кабинет → канал продаж», чем промышленную мощность WMS вообще.</text>
+<text x="60" y="635" font-family="Arial,sans-serif" font-size="16" fill="#57606a">Источник: SCORING_MODEL.csv · модель опубликована 05.09.2026</text>
+</svg>
