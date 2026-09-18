@@ -1,0 +1,9 @@
+code,criterion,max_points,freeze_date,provenance
+C1,Мультиклиентная модель,20,2026-09-05,public_Sostav_MPfit_T003
+C2,Автоматический биллинг и документы,20,2026-09-05,public_Sostav_MPfit_T003
+C3,Единый физический сток,18,2026-09-05,public_Sostav_MPfit_T003
+C4,Автоматические правила клиента,14,2026-09-05,public_Sostav_MPfit_T003
+C5,Личный кабинет селлера,10,2026-09-05,public_Sostav_MPfit_T003
+C6,FBO/FBS и интеграции,8,2026-09-05,public_Sostav_MPfit_T003
+C7,Сотрудники и экономика операций,5,2026-09-05,public_Sostav_MPfit_T003
+C8,Зрелость и масштабирование,5,2026-09-05,public_Sostav_MPfit_T003
