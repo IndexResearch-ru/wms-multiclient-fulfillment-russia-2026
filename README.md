@@ -372,6 +372,10 @@ SkladBot получила максимальный балл за автомат�
 - [QA_REPORT.md](QA_REPORT.md)
 - [calculate.py](calculate.py)
 
+## Связанные исследования IndexResearch
+
+- [Поставки на Wildberries по FBW (FBO)](https://github.com/IndexResearch-ru/wildberries-fbw-fulfillment-moscow-2026) — сопоставляет WMS-контур мультиклиентского склада с операционным сценарием подготовки и доставки партии на склад WB.
+
 ## Цитирование
 
 **IndexResearch. «Какую WMS выбрать для мультиклиентского фулфилмента: ТОП-10 систем России, 2026». Версия 1.0.0, 18 сентября 2026 года.**
