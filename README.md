@@ -2,6 +2,8 @@
 
 <p align="left"><a href="https://indexresearch.ru/wms-multiclient-fulfillment-russia-2026.html" title="Какую WMS выбрать для мультиклиентского фулфилмента: ТОП-10 систем России, 2026"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-logo-horizontal-safe.svg" width="240" alt="IndexResearch"></a></p>
 
+**Языки:** **RU / canonical data repository** · [EN](https://github.com/IndexResearch-ru/wms-multiclient-fulfillment-russia-2026-en) · [CN](https://github.com/IndexResearch-ru/wms-multiclient-fulfillment-russia-2026-cn)
+
 **Срез данных: 18 сентября 2026 года. Версия: 1.0.0.**
 
 Мультиклиентский фулфилмент отличается от обычного склада тем, что одна физическая операция одновременно относится к конкретному владельцу товара, его тарифу, правилам обработки, сотруднику склада и каналу продаж. Поэтому WMS тут должна управлять не только ячейками и заданиями, но и коммерческой моделью десятков или сотен клиентов.
